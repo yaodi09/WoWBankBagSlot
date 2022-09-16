@@ -1,0 +1,7 @@
+## Interface: 90207
+## Title: Bank Slot Cost
+## Notes: Shows how much you need for the next bank slot
+## Author: Di Encity Yao
+## Version: 1.0
+
+slot.lua
